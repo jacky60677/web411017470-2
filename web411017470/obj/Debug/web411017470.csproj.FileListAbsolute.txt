@@ -174,4 +174,3 @@ D:\web411017470-2\web411017470\bin\EntityFramework.dll
 D:\web411017470-2\web411017470\bin\EntityFramework.SqlServer.dll
 D:\web411017470-2\web411017470\bin\EntityFramework.xml
 D:\web411017470-2\web411017470\bin\EntityFramework.SqlServer.xml
-D:\web411017470-2\web411017470\bin\zh-Hant\EntityFramework.resources.dll
