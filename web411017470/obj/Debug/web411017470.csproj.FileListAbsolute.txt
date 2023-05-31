@@ -137,6 +137,8 @@ D:\web411017470-2\web411017470\bin\roslyn\vbc.rsp
 D:\web411017470-2\web411017470\bin\roslyn\VBCSCompiler.exe
 D:\web411017470-2\web411017470\bin\roslyn\VBCSCompiler.exe.config
 D:\web411017470-2\web411017470\bin\Antlr3.Runtime.dll
+D:\web411017470-2\web411017470\bin\EntityFramework.dll
+D:\web411017470-2\web411017470\bin\EntityFramework.SqlServer.dll
 D:\web411017470-2\web411017470\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\web411017470-2\web411017470\bin\Microsoft.Web.Infrastructure.dll
 D:\web411017470-2\web411017470\bin\Newtonsoft.Json.dll
@@ -148,6 +150,8 @@ D:\web411017470-2\web411017470\bin\System.Web.WebPages.Deployment.dll
 D:\web411017470-2\web411017470\bin\System.Web.WebPages.dll
 D:\web411017470-2\web411017470\bin\System.Web.WebPages.Razor.dll
 D:\web411017470-2\web411017470\bin\WebGrease.dll
+D:\web411017470-2\web411017470\bin\EntityFramework.xml
+D:\web411017470-2\web411017470\bin\EntityFramework.SqlServer.xml
 D:\web411017470-2\web411017470\bin\System.Web.Helpers.xml
 D:\web411017470-2\web411017470\bin\System.Web.Mvc.xml
 D:\web411017470-2\web411017470\bin\System.Web.Optimization.xml
@@ -170,7 +174,3 @@ D:\web411017470-2\web411017470\obj\Debug\web411017470.csproj.CoreCompileInputs.c
 D:\web411017470-2\web411017470\obj\Debug\web411017470.csproj.CopyComplete
 D:\web411017470-2\web411017470\obj\Debug\web411017470.dll
 D:\web411017470-2\web411017470\obj\Debug\web411017470.pdb
-D:\web411017470-2\web411017470\bin\EntityFramework.dll
-D:\web411017470-2\web411017470\bin\EntityFramework.SqlServer.dll
-D:\web411017470-2\web411017470\bin\EntityFramework.xml
-D:\web411017470-2\web411017470\bin\EntityFramework.SqlServer.xml

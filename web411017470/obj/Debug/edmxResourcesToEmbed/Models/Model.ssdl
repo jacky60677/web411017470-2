@@ -8,6 +8,7 @@
     <Property Name="Name" Type="nvarchar" MaxLength="10" Nullable="false" />
     <Property Name="Number" Type="nvarchar" MaxLength="10" Nullable="false" />
     <Property Name="Email" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="IsActive" Type="nchar" MaxLength="10" Nullable="false" />
   </EntityType>
   <EntityContainer Name="db411017470ModelStoreContainer">
     <EntitySet Name="Student" EntityType="Self.Student" Schema="dbo" store:Type="Tables" />

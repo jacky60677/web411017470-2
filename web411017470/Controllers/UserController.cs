@@ -10,11 +10,16 @@ namespace web411017470.Controllers
     public class UserController : Controller
     {
         // GET: User
-        public ActionResult Signup()
+        public ActionResult SignUp()
         {
-            return Signup();
+            return View();
         }
 
+        [HttpPost]
+        public ActionResult SignUp(String name, string account, string password)
+        {
+            return View();   
+        }
         
     }
 }
